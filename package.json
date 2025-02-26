@@ -1,0 +1,23 @@
+{
+  "name": "ts-node-setup",
+  "version": "1.0.0",
+  "description": "ts-node-setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahmann22/ts-node-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahmann22/ts-node-setup/issues"
+  },
+  "homepage": "https://github.com/abdelrahmann22/ts-node-setup#readme",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
